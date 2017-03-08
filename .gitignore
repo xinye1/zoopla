@@ -1,3 +1,5 @@
 cred/
 *.json
 quickstart.py
+desktop.ini
+*/desktop.ini
