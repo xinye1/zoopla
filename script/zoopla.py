@@ -6,7 +6,7 @@ from df2gspread import gspread2df as g2d
 from df2gspread import df2gspread as d2g
 
 
-def query_zoopla(loc = 'northwood', min_bed = 3, max_bed = 5, min_price = 900000, max_price = 1100000, driver = webdriver.Chrome('C:/Users/xi373146/Downloads/chromedriver.exe')):
+def query_zoopla(loc = 'northwood', min_bed = 3, max_bed = 5, min_price = 900000, max_price = 1100000, driver = webdriver.Chrome('chromedriver.exe')):
 
 #	import bs4, requests, sys, re, datetime
 #	import pandas as pd
